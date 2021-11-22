@@ -1,4 +1,4 @@
-package com.example.latihan6_1918022;
+package com.example.latihan6;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.work.ExistingWorkPolicy;
@@ -7,6 +7,8 @@ import androidx.work.WorkManager;
 
 import android.os.Bundle;
 import android.view.View;
+
+import com.example.latihan6_1918022.R;
 
 public class MainActivity extends AppCompatActivity {
     @Override

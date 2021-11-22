@@ -1,4 +1,4 @@
-package com.example.latihan6_1918022;
+package com.example.latihan6;
 
 import android.content.Context;
 

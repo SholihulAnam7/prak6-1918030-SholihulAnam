@@ -1,4 +1,4 @@
-package com.example.latihan6_1918022;
+package com.example.latihan6;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -8,6 +8,8 @@ import androidx.annotation.NonNull;
 import androidx.core.app.NotificationCompat;
 import androidx.work.Worker;
 import androidx.work.WorkerParameters;
+
+import com.example.latihan6_1918022.R;
 
 public class MyWorker extends Worker {
     public MyWorker(@NonNull Context context, @NonNull WorkerParameters workerParams) {
